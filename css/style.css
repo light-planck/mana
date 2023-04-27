@@ -170,3 +170,24 @@ article p {
   border-bottom: 2px #0bd solid;
   font-weight: normal;
 }
+
+aside p {
+  padding: 12px 10px;
+}
+
+.sub-menu {
+  margin-bottom: 60px;
+  list-style: none;
+}
+
+.sub-menu li {
+  border-bottom: 1px #add solid;
+}
+.sub-menu a {
+  color: #432;
+  padding: 10px;
+  display: block;
+}
+.sub-menu a:hover {
+  color: #0bd;
+}
